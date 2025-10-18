@@ -1,0 +1,11 @@
+version: '2'
+
+services:
+  ros:
+    image: ros          
+    volumes:
+       - ~/Desktop/my_ros:/root/my_ros_ws
+    stdin_open: true   # эквивалент -i
+    tty: true          # эквивалент -t
+    command: python3 /root/my_ros_ws/counter.py
+
