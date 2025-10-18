@@ -1,4 +1,4 @@
-# Mod5
+# Docker
 
 [Дополнительная документация к проекту](https://docs.google.com/document/d/1ozOumBZp8PnaU_dQOVLlr08WhPb-_we0Pmy02hIPD7E/edit?usp=sharing)
 
